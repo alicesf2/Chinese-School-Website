@@ -21,4 +21,6 @@ footer {
 .carousel-caption {
   display: none;
 }
+body {
+  padding-top: 70px;
 }
